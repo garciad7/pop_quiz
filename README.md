@@ -1,2 +1,4 @@
-# pop_quiz
-pop quiz
+pop-quiz
+==============
+
+Pop Quiz Project
